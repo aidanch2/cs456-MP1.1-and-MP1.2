@@ -1,0 +1,3 @@
+[2026-11-02 17:22:51] CRITICAL ALERT: Primary crash detected! No heartbeat for 3.0 seconds.
+[2026-11-02 17:22:51] INITIATING AUTOMATED FAILOVER...
+[2026-11-02 17:22:51] Failover successful! Standby node promoted.
